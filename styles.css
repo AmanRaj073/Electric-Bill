@@ -31,15 +31,10 @@ h2{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
 }
 div {
-  /* background-color: aliceblue; */
   width: 400px;
   height: auto;
-  /* display: flex;2px 10px 20px rgb(0, 0, 0);
-  align-items: center;
-  justify-content: center; */
-  /* border: 1px solid white; */
   border-radius: 8px;
-  background-image: url(billbg.jpg);
+  background:background: #0b0809a6;;
   background-position: bottom;
   box-shadow:2px 10px 50px rgb(6, 148, 243) ;
 }
